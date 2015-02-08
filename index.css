@@ -1,0 +1,80 @@
+.gradient {
+
+  /* can be treated like a fallback */
+  background-color: white;
+
+  /* will be "on top", if browser supports it */
+  background-image: linear-gradient(white, darkcyan);
+
+  /* these will reset other properties, like background-position, but it does know what you mean */
+
+  background: linear-gradient(white, darkcyan);
+
+}
+.logo{
+    float: center;
+    margin: 50px;
+}
+
+#main_image{
+    width: 100%;
+    height: 100%;
+}
+#overlay_image{
+    text-align:center;
+    background: transparent;
+    font: 1em/50px "Tahoma";, Arial, Helvetica, Geneva, sans-serif;
+}
+#Brown_sayings{
+    background-color: transparent;
+    text-align:center;
+    background: transparent;
+    font: 1em/50px "Tahoma";, Arial, Helvetica, Geneva, sans-serif;
+}
+/* TEST */
+.wrapper {
+    text-align: center;
+}
+.button{
+    float: center;
+    background: darkcyan;
+    border: 5px solid rgba(33, 68, 72, 0.59);
+    margin: 50px;
+    color: white;
+    text-align: center;
+    font: 2em/100px "Tahoma", Arial, Helvetica, Geneva, sans-serif;
+}
+.button2{
+    float: center;
+    background: darkcyan;
+    border: 5px solid rgba(33, 68, 72, 0.59);
+    margin-bottom: 100px;
+    color: white;
+    text-align: center;
+    font: 1em/100px "Tahoma", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.table{
+    margin: auto;
+}
+p{
+	font: 12px "Tahoma", Arial, Helvetica, Geneva, sans-serif;;
+}
+}
+th{
+    text-align: center;
+    font: 32px "Tahoma", Arial, Helvetica, Geneva, sans-serif;
+}
+
+img{
+	margin: auto;
+}
+span{
+	font-weight: bold;
+	text-align:left;
+}
+td{
+	padding: 15px;
+}
+}
+
