@@ -164,7 +164,7 @@ function bearSpeak(){
 function tweetAction(){
 	var thingToTweet = $("#Brown_sayings")[0].innerHTML;
 	
-	var urlToSet = "https://twitter.com/share?url="+encodeURIComponent("http://bearspeak.com")+"&text="+encodeURIComponent(thingToTweet);
+	var urlToSet = "https://twitter.com/share?url="+encodeURIComponent("http://iuliu-b.github.io/hack-brown-2018/")+"&text="+encodeURIComponent(thingToTweet);
 
 	console.log(urlToSet);
 
