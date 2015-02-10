@@ -3,7 +3,7 @@
 BrownSpeak randomly generates sentences composed of words and phrases "commonly used" by Brown Students. 
 All functionality is scripted in the .js file.
 
-Live website can be found at: http://iuliu-b.github.io/hack-brown-2018/
+Live website can be found at: http://iuliu-b.github.io/hack-brown-2015/
 
 Gritty details:
 
